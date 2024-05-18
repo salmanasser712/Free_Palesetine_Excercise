@@ -1,0 +1,2 @@
+../Src/ISR_Interrupts.c:9:6:WWDG_IRQHandler	1
+../Src/ISR_Interrupts.c:19:6:ADC3_IRQHandler	1

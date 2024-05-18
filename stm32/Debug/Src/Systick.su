@@ -1,0 +1,6 @@
+../Src/Systick.c:12:9:SYSTICK_Init	4	static
+../Src/Systick.c:20:9:SYSTICK_Start	4	static
+../Src/Systick.c:26:9:SYSTICK_Stop	4	static
+../Src/Systick.c:32:9:SYSTICK_SetCallback	16	static
+../Src/Systick.c:38:9:SYSTICK_SetTime	16	static
+../Src/Systick.c:44:6:SysTick_Handler	8	static

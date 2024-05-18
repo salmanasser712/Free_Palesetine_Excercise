@@ -1,0 +1,2 @@
+../Src/ISR_Interrupts.c:9:6:WWDG_IRQHandler	32	static
+../Src/ISR_Interrupts.c:19:6:ADC3_IRQHandler	8	static

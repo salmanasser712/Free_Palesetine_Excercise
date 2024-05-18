@@ -1,0 +1,16 @@
+../Src/LCD.c:61:6:LCD_Init	1
+../Src/LCD.c:100:6:LCD_clear	1
+../Src/LCD.c:105:6:LCD_SendChar	1
+../Src/LCD.c:119:6:LCD_SendString1	2
+../Src/LCD.c:131:6:LCD_SendString	2
+../Src/LCD.c:143:13:LCD_SendCommand	1
+../Src/LCD.c:153:13:write_data	1
+../Src/LCD.c:179:6:SET_PIN	1
+../Src/LCD.c:186:6:LCD_SendData	1
+../Src/LCD.c:196:6:LCD_GoTo	5
+../Src/LCD.c:226:6:reverse	2
+../Src/LCD.c:234:13:get_char	4
+../Src/LCD.c:255:6:LCD_voidWriteInt	1
+../Src/LCD.c:261:6:Key_Init	1
+../Src/LCD.c:265:6:Dis_GameOver	1
+../Src/LCD.c:269:6:Dis_Border	1
